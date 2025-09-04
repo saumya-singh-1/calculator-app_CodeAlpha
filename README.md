@@ -21,8 +21,7 @@ The app allows users to perform basic arithmetic operations with a clean, respon
 
 ## 🚀 Live Demo  
 
-🔗 [View Live Project](https://calculator-app-green-five.vercel.app/)  
-🔗 [GitHub Repository](https://github.com/saumya-singh-1/calculator-app_CodeAlpha)  
+🔗 [View Live Project](https://calculator-app-green-five.vercel.app/)    
 
 ---
 
